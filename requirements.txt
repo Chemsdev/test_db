@@ -1,0 +1,4 @@
+pandas==1.5.3
+pandas==1.4.4
+SQLAlchemy==2.0.10
+SQLAlchemy==1.4.7
